@@ -12,7 +12,7 @@ Right now, my big focus is on Kubernetes and cloud native tech. Specifically mak
 
 ### Looking for Help?
 
-Most of my contributions go too tools that my teams interact with on a regular basis, but I'm always up to contribute however I can to projects in need (within moderation). What are some things I can help with?
+Most of my contributions go to tools that my org's teams interact with on a regular basis or will be soon, but I'm always up to contribute however I can to projects in need (within moderation). What are some things I can help with?
 
 #### Technologies
 * .NET (Core)
